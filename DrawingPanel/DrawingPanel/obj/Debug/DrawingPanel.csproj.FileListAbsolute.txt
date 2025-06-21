@@ -1,0 +1,10 @@
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.exe.config
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.exe
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\bin\Debug\DrawingPanel.pdb
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.csproj.AssemblyReference.cache
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.Form1.resources
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.Properties.Resources.resources
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.csproj.GenerateResource.cache
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.csproj.CoreCompileInputs.cache
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.exe
+C:\Users\Nilu\source\repos\DrawingPanel\DrawingPanel\obj\Debug\DrawingPanel.pdb
